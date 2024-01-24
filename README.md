@@ -1,6 +1,6 @@
-# Laboratorio 08.1
+# Laboratorio 08.2
 
-## **Bucles**
+## **Array Methods**
 
 Estamos desarrollando un software hospitalario, y el cliente nos pide poder realizar una serie se operaciones sobre una lista de pacientes.
 
